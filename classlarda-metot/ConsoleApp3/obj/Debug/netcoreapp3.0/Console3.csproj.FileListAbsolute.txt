@@ -1,0 +1,11 @@
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Console3.csprojAssemblyReference.cache
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Console3.AssemblyInfoInputs.cache
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Console3.AssemblyInfo.cs
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.exe
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.deps.json
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.runtimeconfig.json
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.runtimeconfig.dev.json
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.dll
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Console3.pdb
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Console3.dll
+C:\Users\LAB2\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Console3.pdb
